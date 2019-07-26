@@ -9,5 +9,5 @@ Feature: Test Me parameterization
 
     Examples: 
       | uname  | pswrd   |
-      | fgmnzx | mnbvcxz |
-      | fgmnzx | mnbvcxz |
+      | fgmnzxc | mnbvcxz |
+      | fgmnzxc | mnbvcxz |
